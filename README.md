@@ -43,13 +43,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismagaiver341&" alt="luismagaiver341" /></p>
 
-
+<h1 align="center">O que faco</h1>
+<h2 align="center">Alem de programar, eu faco design de icones e UI's e eu gosto muito de usar o photoshop, mesmo nao sabendo tanto assim, e estando sempre disposto a aprender mais!</h2>
 
 
 
 
 <h1 align="left">Suporte:</h1>
-<!---<p><a href="https://www.buymeacoffee.com/LUISMAGAIVER341"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LUISMAGAIVER341" /></a><a href="https://ko-fi.com/LUISMAGAIVER341"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LUISMAGAIVER341" /></a></p><br><br>
+<!--<p><a href="https://www.buymeacoffee.com/LUISMAGAIVER341"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LUISMAGAIVER341" /></a><a href="https://ko-fi.com/LUISMAGAIVER341"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LUISMAGAIVER341" /></a></p><br><br>-->
 
 <h6>Nada ainda.</h6>
 
