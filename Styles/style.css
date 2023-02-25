@@ -1,0 +1,30 @@
+/*body {
+    background-color: #161616;
+}*/
+
+
+#Bar {
+    color: rgb(2, 100, 100);
+    height: 48px;
+    max-height: 48px;
+    min-height: 48px;
+    width: auto;
+    min-width: auto;
+    max-width: auto;
+    
+}
+#Shush {
+    color: rgb(2, 100, 100);
+    height: 48px;
+    max-height: 48px;
+    min-height: 48px;
+    width: auto;
+    min-width: auto;
+    max-width: auto;
+    
+}
+#home {
+    
+    color: rgb(255, 255, 255);
+    
+}
