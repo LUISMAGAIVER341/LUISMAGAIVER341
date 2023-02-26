@@ -1,1 +1,2 @@
 Bgcolor do body: bgcolor="#161616"
+Style do H1(#Home): style="font-family: 'Ubuntu', serif; color: white;"
