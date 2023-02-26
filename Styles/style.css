@@ -30,10 +30,10 @@
     
 }
 #Nekooo {
+    align-self: center;
     height: 128px;
     width: auto;
-    min-height: 128px;
-    min-width: auto;
-    max-height: 128px;
-    max-width: auto;
+
+
+
 }
