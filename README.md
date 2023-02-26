@@ -53,6 +53,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Meu site:</h1>
 <button>
     <a href="http://luismagaiver341.github.io/LUISMAGAIVER341">
-        <img src="Neko.png"></img>
+        <img align="center" src="NekoLabel.png"></img>
     </a>
 </button>
