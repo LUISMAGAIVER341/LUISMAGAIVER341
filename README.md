@@ -61,5 +61,5 @@ You can click the Preview link to take a look at your changes.
     </a>
 </button>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=Novatorem theme&bar_color=5e30eb&bar_color_cover=true"/>  
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>  
 </p>
