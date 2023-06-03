@@ -37,6 +37,10 @@
 
 <h1 align="center">O que faco</h1>
 <h2 align="center">Alem de programar, eu faco design de icones e UI's e eu gosto muito de usar o photoshop, mesmo nao sabendo tanto assim, e estando sempre disposto a aprender mais!</h2>
+🎧Ouvindo:
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=iransantos.marcio&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=iransantos.marcio&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>  
+</p>
 
 <h1 align="left">Suporte:</h1>
 <!--<p><a href="https://www.buymeacoffee.com/LUISMAGAIVER341"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LUISMAGAIVER341" /></a><a href="https://ko-fi.com/LUISMAGAIVER341"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LUISMAGAIVER341" /></a></p><br><br>-->
