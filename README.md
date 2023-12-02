@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismagaiver341&label=Profile%20views&color=0e75b6&style=flat" alt="luismagaiver341" /> </p>
 
-- 🔭 Atualmente, estou trabalhando em **WINderful**
 - 🌱 Estou aprendendo **Frameworks, python, SQL, MongoDB, MySQL, SQlite3, Unreal Engine, c, C++, Basic, C#, HTML,CSS,JS, Vue.JS, Node.js, Nuxt.js, Flutter, Dart, Kotlin, Swift, Scala**
-- 👯 Preciso de colaboradores no **WINderful**
 - 👨‍💻 Portfólio: [github.com/LUISMAGAIVER341](github.com/LUISMAGAIVER341)
 - 📝 Eu escrevo em: **Linkedin(Luís Miguel Armando)**
 - 💬 Você pode me perguntar sobre **Python, HTML e CSS(por enquanto)**
-- 📫 Você pode me contatar através do **Gitter(LUISMAGAIVER341); Email(Outlook:magaiverapple@outlook.com;Gmail:luismiguel.abs09@gmail.com); Skype(Luis Magaiver); Google Chat(luismiguel.abs09@gmail.com); Discord(Coming Soon)**
+- 📫 Você pode me contatar através do **Email(Outlook:magaiverapple@outlook.com;Gmail:luismiguel.abs09@gmail.com); Skype(Luis Magaiver); Google Chat(luismiguel.abs09@gmail.com);**
 - ⚡ Fato curioso **Sou uma crianca**
 
 <h3 align="left">Se conecte comigo:</h3>
@@ -54,12 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Meu site:</h1>
-<button>
-    <a href="https://luismagaiver341.github.io/LUISMAGAIVER341/">
-        <img align="center" src="NekoLabel.png"></img>
-    </a>
-</button>
-<p align="center">
+
+<!--<p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mouhcine.mesmouki&cover_image=true&theme=novatorem&bar_color=5e30eb&bar_color_cover=true"/>  
-</p>
+</p>-->
