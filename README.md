@@ -17,7 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=LUISMAGAIVER341&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LUISMAGAIVER341&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LUISMAGAIVER341&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![snake animation](https://github.com/LUISMAGAIVER341/LUISMAGAIVER341/blob/output/github-contribution-grid-snake2.svg)
+
+![snake animation](https://github.com/LUISMAGAIVER341/LUISMAGAIVER341/blob/output/github-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
