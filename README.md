@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on HyperChat.<br>👯 I’m looking to collaborate on HyperChat testing/development.<br>🌱 I’m currently learning CFW, iOS Bootchain, Payloading, Swift basics and TypeScript skills improvement.<br>💬 Ask me about anything! (It doesn't means that i will always answer you LOL)<br>⚡ Fun fact... Damn... Maybe the fact i love music?
+
+
+🌱 I’m currently learning AI-related things, python, typescript, langchain, etc.
+
+💬 Ask me about anything! (It doesn't means that i will always answer you LOL)
+
+⚡ Fun fact... Damn... Maybe the fact i love music?
 
 
 ## 🌐 Socials:
@@ -26,5 +32,4 @@
 # 🎧 Music Stuff!
 ## What i'm listening:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iransantos.marcio&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=iransantos.marcio&redirect=true)
-## Damn! Motomami bangs!
-<img width="461" height="176" alt="Motomami_logo (1)" src="https://github.com/user-attachments/assets/aa29725a-9c47-4638-b8aa-25ffcf4e972c" />
+
